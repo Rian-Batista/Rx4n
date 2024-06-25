@@ -1,2 +1,4 @@
 # Rx4n
- Primeiro repositorio para testes de estudo
+ Primeiro repositório para testes de estudo
+
+ Repositório durante uma aula...
